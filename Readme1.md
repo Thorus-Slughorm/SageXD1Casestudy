@@ -106,16 +106,3 @@ A/B test different recommendation styles
 Collect feedback from diverse user groups
 
 
-11. Monetization Strategy
-Freemium model:
-Free: Basic symptom checking
-Premium: Detailed reports, personalized plans
-B2B partnerships with clinics/hospitals
-Key Challenges & Solutions:
-Challenge: Medical accuracy
-Solution: Hybrid approach (LLM + curated knowledge base + physician review)
-Challenge: Legal liability
-Solution: Clear disclaimers, no prescription generation, emergency detection
-Challenge: Ayurvedic validation
-Solution: Partner with Ayurvedic institutions, cite classical texts
-Important: Always include this disclaimer in your UI:
